@@ -1,0 +1,2 @@
+# RandomChampionGenerator
+proto
